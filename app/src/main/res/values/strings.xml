@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="texto1">Texto 1</string>
+    <string name="texto2">Texto 2</string>
+    <string name="botonComparar">Comparar</string>
+    <string name="resultadoIguales">Las cadenas de texto son iguales.</string>
+    <string name="resultadoDiferentes">Las cadenas de texto son diferentes.</string>
+</resources>
